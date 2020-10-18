@@ -16,7 +16,7 @@ Es muy simple, sigue los siguientes pasos:
 - Abrir en el navegador: localhost:8080
 - Abrir archivo; si no carga la página, relogear.
 
-### Cuando vayas a probar la aplicacion asegurate de colocar un correo para que puedas descargar la información. En este momento estamos teniendo inconvenientes para entregar los archivos por la página web, no obstante, en el correo están llegando correctamente.
+### IMPORTANTE: Cuando vayas a probar la aplicacion asegurate de colocar un correo para que puedas descargar la información. En este momento estamos teniendo inconvenientes para entregar los archivos por la página web, no obstante, en el correo están llegando correctamente.
 
 ## Codigo
 -Si quieres conocer mas a detalle nuestra solucion, ingresa a: https://github.com/AnalytIQs/interpretador_inteligente
