@@ -19,7 +19,7 @@ Es muy simple, sigue los siguientes pasos:
 ### Cuando vayas a probar la aplicacion asegurate de colocar un correo para que puedas descargar la información. En este momento estamos teniendo inconvenientes para entregar los archivos por la página web, no obstante, en el correo están llegando correctamente.
 
 ## Codigo
--Si quieres conocer mas a detalle nuestra solucion, ingresa a: AnalytIQs/interpretador_inteligente
+-Si quieres conocer mas a detalle nuestra solucion, ingresa a: https://github.com/AnalytIQs/interpretador_inteligente
 Donde encontraras el codigo paso a paso de la aplicacion.
 
 ## OBJETIVO
