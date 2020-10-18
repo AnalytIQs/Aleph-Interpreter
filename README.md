@@ -5,9 +5,8 @@ ALEPH INTERPRETER
 Es muy simple, sigue los siguientes pasos:
 
 - Descarga el repositorio
-- Extrae carpeta application2.
 - Instala npm y node.js: https://nodejs.org/es/download/
-- Abre una terminal en la carpeta application2, es decir navega desde la consola hasta esa ruta.
+- Abre una terminal en la carpeta donde lo descargaste, es decir navega desde la consola hasta esa ruta.
 - Ejecutar el comando npm install -g http-server
 - Ejecutar el comando: http-server dist/interpretador
 - Abrir en el navegador: localhost:8080
