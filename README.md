@@ -1,4 +1,4 @@
-ALEPH INTERPRETER
+# ALEPH INTERPRETER
 
 Te invitamos a conocer Aleph Interpreter:
 
@@ -20,11 +20,11 @@ Es muy simple, sigue los siguientes pasos:
 -Si quieres conocer mas a detalle nuestra solucion, ingresa a: AnalytIQs/interpretador_inteligente
 Donde encontraras el codigo paso a paso de la aplicacion.
 
-OBJETIVO
+## OBJETIVO
 
 El objetivo de nuestra solución, Aleph Interpreter, es garantizar -al funcionario del Banco BBVA-, accesibilidad, óptimo procesamiento, y calidad en la extracción de datos valiosos de los documentos de los estados financieros de PYMES, con el fin de facilitar el proceso de análisis crediticio del banco. Para esto se puso a disposición una página web con la cual aseguramos el uso de nuestra solución desde cualquier dispositivo. En esta página el colaborador del banco podrá cargar documentos en formato pdf asociados a sus posibles clientes. El proceso de análisis se apoya mediante el servicio de Textract AWS y librerías de software libre. Se usarán estrategias de expresiones regulares y diccionarios para extraer las variables solicitadas por el reto Interpretador Inteligente. El colaborador podrá ver reflejado en la página web una visualización previa de la extracción. Una vez validada la información, el usuario podrá descargar en diferentes formatos para su fácil integración. Debido a los controles de  seguridad que ofrece AWS (https://aws.amazon.com/es/textract/) y nuestra página web, no se almacenará ningún documento.
 
-DETALLES TÉCNICOS
+## DETALLES TÉCNICOS
 
 This project was generated with Angular CLI version 10.1.4.
 
